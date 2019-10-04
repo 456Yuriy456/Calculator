@@ -78,7 +78,7 @@ public class CalculaterNextVersion {
         return formula;
     }
 
-    /*------------------My fucking code--------------------------*/
+    
     private static String lookFor(String formula, char sign) {
 
         int indexFirst, indexLast;
