@@ -110,4 +110,6 @@ public class CalculaterNextVersion {
         formula = formula.replace(formulaOld, formulaNew);
         return formula;
     }
+
+    private void methodNew(){}
 }
