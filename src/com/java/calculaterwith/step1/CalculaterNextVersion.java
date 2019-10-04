@@ -5,7 +5,7 @@ public class CalculaterNextVersion {
     public static void main(String[] args) {
         String formula = "2*3+(4*3+6-2*8)-1";
 
-        formula = lookFor(formula, '(');
+//        formula = lookFor(formula, '(');
 
         formula = performOperation(formula, '*');
         System.out.println("Result *: " + formula);
