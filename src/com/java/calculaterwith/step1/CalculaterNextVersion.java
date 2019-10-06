@@ -112,4 +112,5 @@ public class CalculaterNextVersion {
     }
 
     private void methodNew(){}
+    private void methodNew1(){}
 }
